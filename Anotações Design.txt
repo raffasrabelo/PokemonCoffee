@@ -1,0 +1,40 @@
+IMAGENS
+paisagem clean https://www.pxfuel.com/en/desktop-wallpaper-vfecx
+
+
+ICONES
+---- Icone Padrao
+* confirmar (https://www.flaticon.com/br/icone-gratis/peguei-voces_188921?term=pokemon&page=1&position=14&origin=search&related_id=188921)
+
+-------Tela de login
+* icone usuario (https://www.flaticon.com/br/icone-gratis/treinador-de-pokemon_287226?term=pokemon&related_id=287226)
+* icone senha (https://icons8.com.br/icon/L3VdGxBfvE1f/klefki-pok%C3%A9mon)
+*icone confirmar
+
+-------- Tela Cadastrar
+
+
+-------- Tela Buscar
+* Alterar (https://www.flaticon.com/br/icone-gratis/luta_188982?term=pokemon&page=1&position=85&origin=search&related_id=188982)
+
+* remover (https://icons8.com.br/icon/ZyDBCA_vNajS/apagar-para-sempre)
+
+
+------- Tela Alterar
+
+------- pokemons
+pikapika https://www.flaticon.com/br/icone-gratis/avatar_1752772?term=pokemon&page=1&position=23&origin=search&related_id=1752772
+
+meowth https://www.flaticon.com/br/icone-gratis/avatar_1752735?term=pokemon&page=1&position=20&origin=search&related_id=1752735
+
+sudoku https://www.flaticon.com/br/icone-gratis/avatar_1752835?term=pokemon&page=1&position=58&origin=search&related_id=1752835
+
+poliwhirl https://www.flaticon.com/br/icone-gratis/avatar_1752780?term=pokemon&page=1&position=51&origin=search&related_id=1752780
+
+------ paleta de cores 
+amarelo - #FECA05
+Azul claro - #3366AF
+Azul escuro - #1F356B
+Vermelho - #E75654
+Preto - #20222C
+Cinza - #7B866B
